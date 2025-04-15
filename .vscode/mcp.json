@@ -1,0 +1,15 @@
+{
+    "inputs": [],
+    "servers": {
+      "google-maps": {
+        "command": "npx",
+        "args": [
+          "@modelcontextprotocol/server-google-maps"
+        ],
+        "env": {
+          "GOOGLE_MAPS_API_KEY": "xxx"
+        }
+      }
+    }
+  }
+  
